@@ -1,0 +1,26 @@
+// Схема защиты компьютерной сети
+digraph {
+	Server [label="Сервер
+(Антивирус)" color=lightblue shape=box style=filled]
+	Mail [label="Почтовый
+сервер" color=yellow shape=box style=filled]
+	Shared [label="Общий
+диск" color=violet shape=cylinder style=filled]
+	PC1 [label="PC 1
+(Интернет)" color=lightgreen shape=ellipse style=filled]
+	PC2 [label="PC 2
+(Интернет)" color=lightgreen shape=ellipse style=filled]
+	PC3 [label="PC 3
+(Нет интернета)" color=lightcoral shape=ellipse style=filled]
+	PC4 [label="PC 4
+(Нет интернета)" color=lightcoral shape=ellipse style=filled]
+	Mail -> Server [label="Почта" color=red]
+	Server -> PC1 [label="Доступ" color=red]
+	Server -> PC2 [label="Доступ" color=red]
+	Server -> PC3 [label="Доступ" color=red]
+	Server -> PC4 [label="Доступ" color=red]
+	Shared -> PC1 [label="Общий доступ" color=blue]
+	Shared -> PC2 [label="Общий доступ" color=blue]
+	Shared -> PC3 [label="Общий доступ" color=blue]
+	Shared -> PC4 [label="Общий доступ" color=blue]
+}
