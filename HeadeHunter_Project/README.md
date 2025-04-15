@@ -36,3 +36,8 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 Сдать проект на проверку и получить 10 баллов (из них 8 баллов — за основное задание и 2 балла — за дополнительное) за выводы по разведывательному анализу.
 Получить обратную связь от команды курса.
 Для успешного выполнения проекта вам необходимо набрать 21 балл из 40 возможных.
+
+
+Файл для проекта по валюте [currency](https://drive.google.com/file/d/1ztsq6NvgGSApQDT3eE3Hpl2pq3dUaqEk/view?usp=sharing)
+
+Файл данные по проекту [hh_data_w](https://drive.google.com/file/d/1k59MLoTnlOSrp0LmhHDTP8YeRyVrY-QP/view?usp=sharing)
