@@ -6,4 +6,4 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 ## проекты
 * [Проект 0. Игра: Угадай число](https://github.com/yogiki/LernProject_SF/blob/master/SF_Exam_2/Baseline_ipynb_.ipynb)
 * [Проект 1. HeadHunter анализ зарплат](HeadeHunter_Project/README.md)
-* [Проект 2]()
+* [Проект 2. HeadHunter анализ вакансий и работодателей](SF_Exam_3/README.md)
